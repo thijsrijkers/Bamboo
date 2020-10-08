@@ -16,10 +16,10 @@ To build Bamboo you need:
   <img src="https://i.gyazo.com/6838d5cd14afc6acdd3f20d4731b3a67.png" width="428" height="166"> 
   <p> To use the Bamboo namespace, you need to use:</p>
   <pre>
-      using AppLogger;</pre>
+      using BambooGit;</pre>
    <pre>
-      Bamboo bam = new Bamboo();
-      bam.OpenBamboo();
+    Git git = new Git();
+    git.OpenWindow();
 </pre>
 <h2> Storyboard</h2>
 <p>
