@@ -7,26 +7,25 @@ To build Bamboo you need:
 
 <h2> Bamboo installation</h2>
 <pre>
-  <code>
     cd\
     cd [Path_To_Bamboo.sh]
-    sh Bamboo.sh
-  </code>
-</pre>
+    sh Bamboo.sh</pre>
+  <h3> C# usage</h3>
+  <p> Bamboo is already added in the NuGet package manager for easy use. To use Bamboo you need to install it with the NuGet manager</p>
+  <img src="https://i.imgur.com/uyYpvQF.png" width="518" height="166"> 
+  <p> To use the Bamboo namespace, you need to use:</p>
   <pre>
-  <code>
-    The file can also be installed by executing Bamboo.sh
-  </code>
+      using AppLogger;</pre>
+   <pre>
+      Bamboo bam = new Bamboo();
+      bam.OpenBamboo();
 </pre>
-
-<h2> Output of Installation</h2>
+<h2> Storyboard</h2>
 <p>
-  This is the correct output of installation
+  <b>8-10-2020:</b><br>
+  +Added installation script (Raw basic)<br>
+  +Added window script<br>
+  +Creation of the C# package<br>
+  +First beta release of Bamboo
 </p>
-<pre>
-     <img src="https://i.imgur.com/2omg4lf.png" alt="Example Installation" width="718" height="216"> 
-</pre>
-<h2> Sources</h2>
-<ul>
-  <li>Will be updated</li>
-</ul>
+
