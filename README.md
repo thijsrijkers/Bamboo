@@ -11,6 +11,8 @@ To build Bamboo you need:
   cd\
   cd [Path_To_Bamboo.sh]
   sh Bamboo.sh</pre>
+  
+  You also can execute the Bamboo.sh normally
   <h3> C# usage</h3>
   <p> Bamboo is already added in the NuGet package manager for easy use. To use Bamboo you need to install it with the NuGet manager</p>
   <img src="https://i.gyazo.com/6838d5cd14afc6acdd3f20d4731b3a67.png" width="428" height="166"> 
