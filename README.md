@@ -35,7 +35,9 @@ To build Bamboo you need:
   7. Click OK
   8. Click Apply & OK</pre>
   
-  <p> Now the Libary is set and you can start making the class to use the functions of the libary:</p>
+  <p> Now the Libary is set: </p>
+  <img src="https://i.gyazo.com/03a70ba0127f3bb5a9a3f76b6c60d7f6.png" width="428" height="166">
+  <p> Now you can start making the class to use the functions of the libary:</p>
   <pre>
   Bamboo bamboo = new Bamboo();
   bamboo.OpenWindow();</pre>
