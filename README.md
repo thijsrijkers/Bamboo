@@ -15,7 +15,7 @@ To build Bamboo you need:
   You also can execute the Bamboo.sh normally
   <h3> C# usage</h3>
   <p> Bamboo is already added in the NuGet package manager for easy use. To use Bamboo you need to install it with the NuGet manager</p>
-  <img src="https://i.gyazo.com/6838d5cd14afc6acdd3f20d4731b3a67.png" width="428" height="106"> 
+  <img src="https://i.gyazo.com/6838d5cd14afc6acdd3f20d4731b3a67.png" width="428" height="166"> 
   <p> To use the Bamboo namespace, you need to use:</p>
   <pre>
   using BambooGit;</pre>
@@ -36,7 +36,7 @@ To build Bamboo you need:
   8. Click Apply & OK</pre>
   
   <p> Now the Libary is set: </p>
-  <img src="https://i.gyazo.com/03a70ba0127f3bb5a9a3f76b6c60d7f6.png" width="358" height="166">
+  <img src="https://i.gyazo.com/03a70ba0127f3bb5a9a3f76b6c60d7f6.png" width="358" height="106">
   <p> Now you can start making the class to use the functions of the libary:</p>
   <pre>
   Bamboo bamboo = new Bamboo();
