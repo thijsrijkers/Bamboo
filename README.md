@@ -23,13 +23,15 @@ To build Bamboo you need:
     </code>
    </pre>
    <pre>
-    <code>
       Bamboo bam = new Bamboo();
       bam.OpenBamboo();
-    </code>
 </pre>
+<h2> Storyboard</h2>
+<p>
+  <b>8-10-2020:</b><br>
+  +Added installation script (Raw basic)
+  +Added window script
+  +Creation of the C# package
+  +First beta release of Bamboo
+</p>
 
-<h2> Sources</h2>
-<ul>
-  <li>Will be updated</li>
-</ul>
