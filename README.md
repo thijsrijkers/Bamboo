@@ -1,7 +1,7 @@
 <h1 align="center"> 🎋 Bamboo 🎋 </h1>
-
-A CMD based on shell script that can be implemented by other applications for the usage of git.
-
+<br>
+<p align="center">A CMD based on shell script that can be implemented by other applications for the usage of git. </p>
+<br>
 ## Building
 To build Bamboo you need:
 - A clone/release of Bamboo
