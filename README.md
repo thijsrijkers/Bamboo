@@ -29,13 +29,6 @@ To build Bamboo you need:
     </code>
 </pre>
 
-<h2> Output of Installation</h2>
-<p>
-  This is the correct output of installation
-</p>
-<pre>
-     <img src="https://i.imgur.com/2omg4lf.png" alt="Example Installation" width="718" height="216"> 
-</pre>
 <h2> Sources</h2>
 <ul>
   <li>Will be updated</li>
