@@ -1,7 +1,5 @@
-<p align="center"> 
-<h1> 🎋 Bamboo 🎋 </h1>
-    
-</p>
+<h1 align="center"> 🎋 Bamboo 🎋 </h1>
+
 A CMD based on shell script that can be implemented by other applications for the usage of git.
 
 ## Building
