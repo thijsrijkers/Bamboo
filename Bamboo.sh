@@ -1,4 +1,5 @@
-cd /d C:\
-cd "\program files (x86)"
-mkdir bamboo
+mkdir -p C:/Bamboo
+mkdir -p C:/Bamboo/Resources
+xcopy "Resources\Window.sh" "C:\Bamboo\Resources"
 ls -lt
+ln -s C:/Bamboo/Resources/Window.sh $HOME/Desktop
