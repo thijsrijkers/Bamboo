@@ -24,13 +24,13 @@ To build Bamboo you need:
 <h2> Storyboard</h2>
 <p>
   <b>8-10-2020:</b><br>
-  +Added installation script (Raw basic)<br>
-  +Added window script<br>
-  +Creation of the C# package<br>
-  +First beta release of Bamboo
+  + Added installation script (Raw basic)<br>
+  + Added window script<br>
+  + Creation of the C# package<br>
+  + First beta release of Bamboo
   <br><br>
   <b>9-10-2020:</b><br>
   +-Changes to the C# Bamboo package<br>
-  +First workable release 
+  + First workable release 
 </p>
 
