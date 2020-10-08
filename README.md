@@ -15,7 +15,7 @@ To build Bamboo you need:
   <img src="https://i.imgur.com/uyYpvQF.png" width="518" height="166"> 
   <p> To use the Bamboo namespace, you need to use:</p>
   <pre>
-      using AppLogger;
+      using AppLogger;</pre>
    <pre>
       Bamboo bam = new Bamboo();
       bam.OpenBamboo();
