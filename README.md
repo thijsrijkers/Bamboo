@@ -21,9 +21,9 @@ To build Bamboo you need:
   using BambooGit;</pre>
   <pre>
   Git git = new Git();
-  git.OpenWindow();
-  </pre>
+  git.OpenWindow();</pre>
   <h3> Java/Intellij usage</h3>
+  <p> We added a small Java libary that can also be used for the use of Bamboo. Follow the next step in Intellij to install the libary</p>
   <pre>
   1. Click File from the toolbar
   2. Select Project Structure option (CTRL + SHIFT + ALT + S on Windows/Linux, ⌘ + ; on Mac OS X)
@@ -32,13 +32,12 @@ To build Bamboo you need:
   5. Select Java
   6. Select Libarys\Java\BambooJavaLib.jar
   7. Click OK
-  8. Click Apply & OK
-  </pre>
+  8. Click Apply & OK</pre>
   
+  <p> Now the Libary is set and you can start making the class to use the functions of the libary:</p>
   <pre>
   Bamboo bamboo = new Bamboo();
-  bamboo.OpenWindow();
-  </pre>
+  bamboo.OpenWindow();</pre>
 
   
 <h2> Storyboard</h2>
