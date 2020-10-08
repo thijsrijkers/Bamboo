@@ -13,11 +13,6 @@ To build Bamboo you need:
     sh Bamboo.sh
   </code>
 </pre>
-  <pre>
-  <code>
-    The file can also be installed by executing Bamboo.sh
-  </code>
-</pre>
 
 <h2> Output of Installation</h2>
 <p>
