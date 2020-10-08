@@ -1,4 +1,4 @@
-# Bamboo 🎋
+# 🎋 Bamboo 🎋
 A CMD based on shell script that can be implemented by other applications for the usage of git.
 
 ## Building
