@@ -54,6 +54,6 @@ To build Bamboo you need:
   <b>9-10-2020:</b><br>
   +-Changes to the C# Bamboo package<br>
   + First workable release<br>
-  +Creation of the Java libary
+  + Creation of the Java libary
 </p>
 
