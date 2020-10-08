@@ -22,6 +22,7 @@ To build Bamboo you need:
   <pre>
   Git git = new Git();
   git.OpenWindow();</pre>
+  <br>
   <h3> Java/Intellij usage</h3>
   <p> We added a small Java libary that can also be used for the use of Bamboo. Follow the next step in Intellij to install the libary</p>
   <pre>
