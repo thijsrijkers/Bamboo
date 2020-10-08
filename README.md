@@ -28,7 +28,7 @@ To build Bamboo you need:
   +Added window script<br>
   +Creation of the C# package<br>
   +First beta release of Bamboo
-  <br>
+  <br><br>
   <b>9-10-2020:</b><br>
   +-Change to the C# Bamboo package<br>
   +First workable release 
