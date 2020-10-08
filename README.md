@@ -22,6 +22,7 @@ To build Bamboo you need:
       using AppLogger;
     </code>
    </pre>
+   <pre>
     <code>
       Bamboo bam = new Bamboo();
       bam.OpenBamboo();
