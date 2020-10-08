@@ -19,10 +19,28 @@ To build Bamboo you need:
   <p> To use the Bamboo namespace, you need to use:</p>
   <pre>
   using BambooGit;</pre>
-   <pre>
+  <pre>
   Git git = new Git();
   git.OpenWindow();
-</pre>
+  </pre>
+  <h3> Java/Intellij usage</h3>
+  <pre>
+  1. Click File from the toolbar
+  2. Select Project Structure option (CTRL + SHIFT + ALT + S on Windows/Linux, ⌘ + ; on Mac OS X)
+  3. Select Libraies at the left panel
+  4. Select + icon
+  5. Select Java
+  6. Select Libarys\Java\BambooJavaLib.jar
+  7. Click OK
+  8. Click Apply & OK
+  </pre>
+  
+  <pre>
+  Bamboo bamboo = new Bamboo();
+  bamboo.OpenWindow();
+  </pre>
+
+  
 <h2> Storyboard</h2>
 <p>
   <b>8-10-2020:</b><br>
