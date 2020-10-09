@@ -25,7 +25,7 @@ To build Bamboo you need:
   <br>
   <h3> Java/Intellij usage</h3>
   <p> We added a small Java libary that can also be used for the use of Bamboo. Follow the next step in Intellij to install the libary</p>
-  <pre>
+ 
   - Click File from the toolbar
   - Select Project Structure option (CTRL + SHIFT + ALT + S on Windows/Linux, ⌘ + ; on Mac OS X)
   - Select Libraies at the left panel
@@ -33,7 +33,7 @@ To build Bamboo you need:
   - Select Java
   - Select Libarys\Java\BambooJavaLib.jar
   - Click OK
-  - Click Apply & OK</pre>
+  - Click Apply & OK
   
   <p> Now the Libary is set: </p>
   <img src="https://i.gyazo.com/03a70ba0127f3bb5a9a3f76b6c60d7f6.png" width="358" height="106">
