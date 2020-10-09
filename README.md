@@ -1,6 +1,6 @@
 <h1 align="center"> 🎋 Bamboo 🎋 </h1>
 <br>
-<p align="center">A CMD based application that can be implemented in project for the usage of git. </p>
+<p align="center">A CMD based application that can be implemented in projects for the usage of git. </p>
 
 ## Building
 To build Bamboo you need:
